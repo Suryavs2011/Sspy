@@ -1,2 +1,4 @@
 streamlit
 pyttsx3
+pyaudio
+# For Linux/MacOS users: install 'espeak' manually via terminal
